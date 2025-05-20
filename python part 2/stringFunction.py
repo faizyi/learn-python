@@ -13,7 +13,7 @@
 
 #Find
 # str = "I am studying python"
-# print(str.find('z'))
+# print(str.find('a'))
 
 #count
 # str = "I am studying python"

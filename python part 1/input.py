@@ -12,15 +12,15 @@
 # num1 = int(input('Enter Value 1:'))
 # num2 = int(input('Enter Value 2:'))
 # sum = num1 + num2
-# print(sum)
+# print(type(sum), sum)
 
 
 # num1 = int(input('Enter Value 1:'))
 # num2 = int(input('Enter Value 2:'))
-# # indentify = (num1 == num2)
-# # indentify = (num1 > num2)
-# # indentify = (num1 >= num2)
-# # indentify = (num1 >= num2 or num1 <= num2)
+# indentify = (num1 == num2)
+# indentify = (num1 > num2)
+# indentify = (num1 >= num2)
+# indentify = (num1 >= num2 or num1 <= num2)
 # indentify = (num1 > num2 and num1 == num2)
 # print(indentify)
 
@@ -31,3 +31,12 @@
 # print(name)
 # print(age)
 # print(arsk)
+
+
+# val = int(input("Enter Number: "))
+# if(val % 2 == 0):
+#     print("Even")
+# else:
+#     print("Odd")
+
+

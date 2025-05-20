@@ -26,15 +26,15 @@
 
 
 # num = [1,2,3,4,5]
-# num.insert(2,6)
+# num.insert(3,6)
 # print(num)
 
 
-# num = [1,2,3,4,5,6]
+# num = [1,2,3,6,4,5,6]
 # num.remove(6)
 # print(num)
 
 
 # num = [1,2,3,4,5,6]
-# num.pop(5)
+# num.pop(1)
 # print(num)
